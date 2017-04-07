@@ -1,0 +1,7 @@
+f:\Ninesky\Ninesky\Ninesky.IDAL\bin\Debug\Ninesky.IDAL.dll
+f:\Ninesky\Ninesky\Ninesky.IDAL\bin\Debug\Ninesky.IDAL.pdb
+f:\Ninesky\Ninesky\Ninesky.IDAL\bin\Debug\Ninesky.Models.dll
+f:\Ninesky\Ninesky\Ninesky.IDAL\bin\Debug\Ninesky.Models.pdb
+f:\Ninesky\Ninesky\Ninesky.IDAL\obj\Debug\Ninesky.IDAL.csprojResolveAssemblyReference.cache
+f:\Ninesky\Ninesky\Ninesky.IDAL\obj\Debug\Ninesky.IDAL.dll
+f:\Ninesky\Ninesky\Ninesky.IDAL\obj\Debug\Ninesky.IDAL.pdb

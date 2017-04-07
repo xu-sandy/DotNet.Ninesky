@@ -1,0 +1,5 @@
+f:\Ninesky\Ninesky\Ninesky.Common\bin\Debug\Ninesky.Common.dll
+f:\Ninesky\Ninesky\Ninesky.Common\bin\Debug\Ninesky.Common.pdb
+f:\Ninesky\Ninesky\Ninesky.Common\obj\Debug\Ninesky.Common.dll
+f:\Ninesky\Ninesky\Ninesky.Common\obj\Debug\Ninesky.Common.pdb
+f:\Ninesky\Ninesky\Ninesky.Common\obj\Debug\Ninesky.Common.csprojResolveAssemblyReference.cache
